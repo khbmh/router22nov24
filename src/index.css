@@ -5,8 +5,9 @@
 body {
   background-color: #111;
   color: #dfe;
+  transition: all .3s ease-in-out;
 }
 .active{
   background-color: transparent;
-  border-bottom: 3px rgb(234, 226, 213) solid;
+  border-bottom: 1px rgb(234, 226, 213) solid;
 }
